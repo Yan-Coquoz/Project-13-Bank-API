@@ -8,8 +8,8 @@ assignees: ''
 
 After successfully logging in, a user should be able to:
 
-- [ ] See their profile page
-- [ ] See their first name on the profile page
-- [ ] See placeholder bank account information
+- [ ] See their profile page (Voir leur page de profil)
+- [ ] See their first name on the profile page (Voir leur prénom sur la page de profil)
+- [ ] See placeholder bank account information (Voir les informations de compte bancaire de l'espace réservé)
 
 For more information on accessing the design assets, see the [Design Assets section in the README](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API#design-assets).

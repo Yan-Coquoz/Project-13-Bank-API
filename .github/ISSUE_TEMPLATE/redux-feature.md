@@ -8,6 +8,6 @@ assignees: ''
 
 The React app contains an implementation of Redux for state management that:
 
-- [ ] a store to manage all of the data
-- [ ] action(s) for sending information
-- [ ] reducer(s) for handling application state changes
+- [ ] a store to manage all of the data (un store pour gérer toutes les données)
+- [ ] action(s) for sending information (action(s) d'envoi d'informations)
+- [ ] reducer(s) for handling application state changes (réducteur(s) pour gérer les changements d'état de l'application)
